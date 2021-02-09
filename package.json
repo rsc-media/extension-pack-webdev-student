@@ -1,0 +1,22 @@
+{
+    "name": "web-development-student-pack",
+    "displayName": "Web Development Student Extension Pack",
+    "description": "An extension pack for students taking web development courses at Rio Salado College.",
+    "version": "1.0.0",
+    "publisher": "Gordon Inman",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ecmel.vscode-html-css",
+        "GitHub.vscode-pull-request-github",
+        "mkaufman.HTMLHint",
+        "smelukov.vscode-csstree",
+        "streetsidesoftware.code-spell-checker",
+        "Tyriar.lorem-ipsum",
+        "yuichinukiyama.vscode-preview-server"
+    ]
+}
