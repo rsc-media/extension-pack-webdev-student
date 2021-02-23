@@ -17,6 +17,7 @@
         "smelukov.vscode-csstree",
         "streetsidesoftware.code-spell-checker",
         "Tyriar.lorem-ipsum",
-        "yuichinukiyama.vscode-preview-server"
+        "yuichinukiyama.vscode-preview-server",
+        "maxvanderschee.web-accessibility"
     ]
 }
