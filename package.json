@@ -3,7 +3,7 @@
     "displayName": "Web Development Student Extension Pack",
     "description": "An extension pack for students taking web development courses at Rio Salado College.",
     "version": "1.0.0",
-    "publisher": "Gordon Inman",
+    "publisher": "RSC-Media",
     "engines": {
         "vscode": "^1.52.0"
     },
