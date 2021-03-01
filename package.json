@@ -1,9 +1,18 @@
 {
-    "name": "web-development-student-pack",
+    "name": "webdev-student-pack",
     "displayName": "Web Development Student Extension Pack",
     "description": "An extension pack for students taking web development courses at Rio Salado College.",
     "version": "1.0.0",
+    "icon": "images/extpack-icon.png",
     "publisher": "RSC-Media",
+    "author": {
+        "name": "Gordon Inman",
+    },
+    "homepage": "https://github.com/rsc-media/extension-pack-webdev-student",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/rsc-media/extension-pack-webdev-student"
+	},
     "engines": {
         "vscode": "^1.52.0"
     },
