@@ -1,6 +1,6 @@
 {
     "name": "web-development-student-pack",
-    "icon": "icons/icon.png"
+    "icon": "icons/icon.png",
     "displayName": "Web Development Student Extension Pack",
     "description": "An extension pack for students taking web development courses at Rio Salado College.",
     "version": "1.0.0",
