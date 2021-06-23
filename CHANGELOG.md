@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [1.0] - 2021-01-05
+## [1.0] - 2021-06-20
 
 - Initial release
+
+## [1.0.1] - 2021-06-23
+- Updated manifest
+
+## [1.0.2] - 2021-06-23
+- Updated changelog
