@@ -1,24 +1,33 @@
 {
-    "name": "web-development-student-pack",
-    "icon": "icons/icon.png",
-    "displayName": "Web Development Student Extension Pack",
-    "description": "An extension pack for students taking web development courses at Rio Salado College.",
-    "version": "1.0.0",
-    "publisher": "Gordon Inman",
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "ecmel.vscode-html-css",
-        "GitHub.vscode-pull-request-github",
-        "mkaufman.HTMLHint",
-        "smelukov.vscode-csstree",
-        "streetsidesoftware.code-spell-checker",
-        "Tyriar.lorem-ipsum",
-        "yuichinukiyama.vscode-preview-server",
-        "maxvanderschee.web-accessibility"
-    ]
+  "name": "web-development-student-pack",
+  "icon": "icons/codeGearIcon256.png",
+  "displayName": "Web Development Student Extension Pack",
+  "description": "An extension pack for students taking web development courses at Rio Salado College.",
+  "version": "1.0.1",
+  "publisher": "RioSaladoCollegeMedia",
+  "author": {
+    "name": "Gordon Inman"
+  },
+  "homepage": "https://github.com/rsc-media/extension-pack-webdev-student",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rsc-media/extension-pack-webdev-student"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ecmel.vscode-html-css",
+    "GitHub.vscode-pull-request-github",
+    "mkaufman.HTMLHint",
+    "smelukov.vscode-csstree",
+    "streetsidesoftware.code-spell-checker",
+    "Tyriar.lorem-ipsum",
+    "yuichinukiyama.vscode-preview-server",
+    "maxvanderschee.web-accessibility"
+  ]
 }
