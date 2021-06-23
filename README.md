@@ -14,6 +14,7 @@ This pack contains the following extensions:
 * [Lorem Ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) | by Daniel Imms
 * [Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server) | by YuichiNukiyama
 * [Web Accessibility](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility) | by Max van der Schee
+* [W3C Web Validator](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator) | by Celian Riboulet
 
 ## Lorem Ipsum Dictionary
 The Code Spell Checker extension will, by default, flag lorem ipsum text as being spelled incorrectly because it does not recognize the words. However, you can add in a lorem ipsum dictionary to the extension so the lorem ipsum text is not flagged as being incorrect. This can help to simplify the error messages to those words that are actually misspelled. To add the dictionary (after the extension has been installed):
