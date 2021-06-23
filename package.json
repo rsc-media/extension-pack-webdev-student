@@ -28,6 +28,7 @@
     "streetsidesoftware.code-spell-checker",
     "Tyriar.lorem-ipsum",
     "yuichinukiyama.vscode-preview-server",
-    "maxvanderschee.web-accessibility"
+    "maxvanderschee.web-accessibility",
+    "celianriboulet.webvalidator"
   ]
 }
