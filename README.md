@@ -26,4 +26,6 @@ The Code Spell Checker extension will, by default, flag lorem ipsum text as bein
 6. Click the OK button to add it. You should now see it listed as a dictionary.
 7. Close the Settings tab.
 
+![lorem-ipsum dictionary within the list of used dictionaries in the settings](https://user-images.githubusercontent.com/25446111/123177639-7faa7000-d43a-11eb-9e4e-97f2897d2060.png)
+
 Any lorem ipsum text within your HTML documents should now be recognized.
