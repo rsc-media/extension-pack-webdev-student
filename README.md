@@ -7,11 +7,11 @@ This extension pack is for students taking web development courses at Rio Salado
 This pack contains the following extensions:
 
 * [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | By GitHub
+* [GitHub Classroom](https://marketplace.visualstudio.com/items?itemName=GitHub.classroom) | by GitHub
 * [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) | by ecmel
 * [CSSTree validator](https://marketplace.visualstudio.com/items?itemName=smelukov.vscode-csstree) | by Sergey Melyukov
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | by Street Side Software
-* [Lorem Ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum) | by Daniel Imms
-* [Preview on Web Server](https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server) | by YuichiNukiyama
+* [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) | by Microsoft
 * [Web Accessibility](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility) | by Max van der Schee
 * [W3C Web Validator](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator) | by Celian Riboulet
 
