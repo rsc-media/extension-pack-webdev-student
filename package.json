@@ -3,7 +3,7 @@
   "icon": "icons/codeGearIcon256.png",
   "displayName": "Web Development Student Extension Pack",
   "description": "An extension pack for students taking web development courses at Rio Salado College.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "RioSaladoCollegeMedia",
   "author": {
     "name": "Gordon Inman"
