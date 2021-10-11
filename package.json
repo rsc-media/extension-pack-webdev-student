@@ -23,6 +23,7 @@
   "extensionPack": [
     "ecmel.vscode-html-css",
     "GitHub.vscode-pull-request-github",
+    "github.classroom",
     "smelukov.vscode-csstree",
     "streetsidesoftware.code-spell-checker",
     "yuichinukiyama.vscode-preview-server",
