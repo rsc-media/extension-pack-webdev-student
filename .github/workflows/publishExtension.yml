@@ -19,8 +19,8 @@ jobs:
         with:
           node-version: '14'
         
-      - name: Run NPM CI
-        run: npm ci
+      - name: Run NPM Install
+        run: npm install
 
       # Get version value from package.json
       - name: get-npm-version
