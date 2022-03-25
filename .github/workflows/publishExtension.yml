@@ -66,9 +66,7 @@ jobs:
           
       ## Package and publish to VS Marketplace
       - name: Publish to Visual Studio Marketplace
-        uses: HaaLeo/publish-vscode-extension@v0
-        env:
-          pat: ${{ secrets.VSCE_PUBLISHINGPAT }}
+        uses: HaaLeo/publish-vscode-extension@master
         with:
           pat: ${{ secrets.VSCE_PUBLISHINGPAT }} # Make sure to add your VS Marketplace token as a repository secret
           registryUrl: https://marketplace.visualstudio.com
