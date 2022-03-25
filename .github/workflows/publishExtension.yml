@@ -28,18 +28,18 @@ jobs:
         uses: martinbeentjes/npm-get-version-action@master
 
       # Assert that the package is valid and create the VSIX file
-      - name: Package Extension (VSIX)
-        uses: lannonbr/vsce-action@master
-        with:
-          args: "package"
+#       - name: Package Extension (VSIX)
+#         uses: lannonbr/vsce-action@master
+#         with:
+#           args: "package"
 
       # Needs to be zipped for uploading release asset (VSIX isn't a known content type)
-      - name: Zip VSIX
-        uses: thedoctor0/zip-release@master
-        with:
-          type: 'zip'
-          path: ${{ env.PACKAGE_NAME }}-${{ steps.package-version.outputs.current-version }}.vsix
-          filename: 'extension.zip'
+#       - name: Zip VSIX
+#         uses: thedoctor0/zip-release@master
+#         with:
+#           type: 'zip'
+#           path: ${{ env.PACKAGE_NAME }}-${{ steps.package-version.outputs.current-version }}.vsix
+#           filename: 'extension.zip'
 
       ## Create GitHub Release
 #       - name: Create GitHub Release
