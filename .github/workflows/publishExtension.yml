@@ -16,6 +16,8 @@ jobs:
       # Install NPM pacakge dependencies
       - name: Setup Node
         uses: actions/setup-node@v2
+        with:
+          node-version: '14'
         
       - name: Run NPM CI
         run: npm ci
