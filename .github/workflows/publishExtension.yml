@@ -33,7 +33,7 @@ jobs:
         with:
           args: "package"
 
-      Needs to be zipped for uploading release asset (VSIX isn't a known content type)
+      # Needs to be zipped for uploading release asset (VSIX isn't a known content type)
       - name: Zip VSIX
         uses: thedoctor0/zip-release@master
         with:
