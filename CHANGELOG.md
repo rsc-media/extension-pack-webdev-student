@@ -2,6 +2,9 @@
 
 All notable changes to the "web-development-student-pack" extension pack will be documented in this file.
 
+## [1.0.6] - 2022-10-08
+- Added Markdown Preview Enhanced extension.
+
 ## [1.0.5] - 2021-10-11
 - Replaced Preview Web Server with Live Preview.
 - Removed Lorem Ipsum extension because the functionality is built into VS Code. (Type in `lorem` and press the `Tab` key to get 30 words of lorem ipsum text or `lorem#` where the `#` is the number of desired words.)
