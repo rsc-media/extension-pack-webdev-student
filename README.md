@@ -12,6 +12,7 @@ This pack contains the following extensions:
 * [CSSTree validator](https://marketplace.visualstudio.com/items?itemName=smelukov.vscode-csstree) | by Sergey Melyukov
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | by Street Side Software
 * [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) | by Microsoft
+* [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) | by Yiyi Wang
 * [Web Accessibility](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility) | by Max van der Schee
 * [W3C Web Validator](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator) | by Celian Riboulet
 
