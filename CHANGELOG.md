@@ -2,6 +2,10 @@
 
 All notable changes to the "web-development-student-pack" extension pack will be documented in this file.
 
+## [1.0.7] - 2024-10-14
+- Added Markdown Preview Enhanced extension.
+- Remove GitHub Classroom due to deprecation.
+
 ## [1.0.6] - 2023-12-19
 - Retired/removed this extension pack
 
